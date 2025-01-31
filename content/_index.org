@@ -3,4 +3,10 @@ draft: false
 title: 'StuyCS Family'
 ---
 
-Welcome 
+Welcome to the new StuyCS Family web presence.
+
+Please check out the [[/about][About]] page to read our code of conduct.
+
+You can sign up / re-sign up at the [[/signup][Sign Up]] page.
+
+
