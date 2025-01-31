@@ -1,0 +1,12 @@
+---
+title: "Example article title"
+date: 2025-01-31T13:19:06-04:00
+description: "Example article description"
+categories:
+  - "Category 1"
+tags:
+  - "Test"
+  - "Another test"
+
+---
+hello
