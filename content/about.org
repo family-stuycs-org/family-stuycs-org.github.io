@@ -9,7 +9,7 @@ draft: false
 The StuyCS Family is a community comprised of people affiliated with
 The Stuyvesant High School Computer Science program. This includes
 Stuyvesant Alums who have taken the CS courses offered at Stuyvesant
-as well as Stuyvesant Alums who found there way to tech later in life
+as well as Stuyvesant Alums who found their way to tech later in life
 as well as other affiliates. 
 
 * Our Goals:
